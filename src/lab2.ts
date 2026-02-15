@@ -1,4 +1,6 @@
 // Lab 2 - TypeScript (Custom Types))
+// GitHub: https://github.com/alevy99/frontend_dev_typescript_lab2
+
 // Exercise 1
 
 // Array to hold the list of tasks
